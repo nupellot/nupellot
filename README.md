@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Dima </h1>
-    <h3>Full Stack Developer from Moscow</h3>
+    <h2>Hi there, I'm  Dima </h2>
+    <h4>Full Stack Developer from Moscow</h4>
 </div>
 
 <div id="socials" align="center">
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:nupellot@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 ### My stats
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nupellot&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nupellot&theme=github" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nupellot&theme=github" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nupellot&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nupellot&theme=github" alt=""/>
 </div>
