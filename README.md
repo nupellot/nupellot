@@ -12,16 +12,15 @@
   </a>
 </div>
 
-### About me
+<h3>About me</h3> 
 - 🌱 I’m currently learning **Flask, Docker, Python**
 - 📝 I'm a fourth year student of [Bauman's Moscow State Technical University](https://bmstu.ru/)
 - 📄 Know about my experiences [CV](https://hh.ru/resume/53bf7788ff0c4cb44c0039ed1f7535724c7543)
 - 📫 Took fourth place at the hackathon LCT 2023 and MSH 2022
 - 🌍 I speak Russian and English
-
 ---
 
-### My major languages and tools
+<h3>My major languages and tools</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
@@ -35,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" height="40" />&nbsp;
 
 
-### My stats
+<h3>My stats</h3>
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nupellot&theme=github" alt=""/>
