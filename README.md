@@ -37,7 +37,7 @@
 ### My stats
 
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nupellot&theme=github" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nupellot&theme=github" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nupellot&theme=github" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nupellot&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nupellot&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nupellot&theme=github_dark" alt=""/>
 </div>
