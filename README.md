@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning **Flask, Docker, Python**
 - 📝 I'm a fourth year student of [Bauman's Moscow State Technical University](https://bmstu.ru/)
 - 📄 Know about my experiences [CV](https://hh.ru/resume/53bf7788ff0c4cb44c0039ed1f7535724c7543)
-- 📫 Took fourth place at the hackathon LCT 2023 and MSH 2022
+- 📫 To see more of my code check out my [Replit](https://replit.com/@nupellot)
+- 🏆 Took fourth place at the hackathon LCT 2023 and MSH 2022
 - 🌍 I speak Russian and English
 ---
 
