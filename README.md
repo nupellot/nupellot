@@ -16,7 +16,7 @@
 - 🌱 I’m currently upgrading my skills in **Data Engineering and Python**
 - 📝 I'm a graduate student of [Bauman's Moscow State Technical University](https://bmstu.ru/)
 - 🏆 [Took first place](https://bmstu.ru/news/baumancy-prizyory-khakatona-lidery-cifrovoi-transformacii) at [LCT Hackathon 2024](https://i.moscow/lct)
-- 📄 Know about my experiences [CV](https://hh.ru/resume/53bf7788ff0c4cb44c0039ed1f7535724c7543)
+- 📄 Know about my experiences [CV](https://github.com/nupellot/nupellot/blob/main/Коротков%20Дмитрий%20-%20Инженер%20данных.%20Июнь%202025.pdf)
 - 🌍 I speak Russian and English
 - 📫 To see more of my code check out my [Replit](https://replit.com/@nupellot)
 ---
